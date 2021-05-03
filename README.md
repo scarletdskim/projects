@@ -11,6 +11,7 @@ AI 부트캠프에서 배운 내용을 바탕으로 수행한 프로젝트를 �
 
 ### **Section1. Video Game Sales 톺아보기**
 [nbviewer로 바로보기](https://nbviewer.jupyter.org/github/scarletdskim/projects/blob/main/AI_02_%EA%B9%80%EB%8B%A4%EC%86%94_Section1.ipynb)
+
 [다음 분기에 어떤 게임을 설계할까?] 에 대답하기 위해 아래 3가지를 고민해봅니다.
 1) 출고량이 많은 게임들의 패턴이 어떤지
 2) 시간흐름에 따라 트렌드가 있는지
