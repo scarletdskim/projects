@@ -20,6 +20,7 @@ EDA, 기초통계를 사용해 얻은 인사이트로 결론을 내는 과정이
 
 
 ### **Section2. 구매패턴으로 고객의 LTR(LifeTime Revenue) 예측하기**
+[nbviewer로 바로보기](https://nbviewer.jupyter.org/github/scarletdskim/projects/blob/main/AI_02_%EA%B9%80%EB%8B%A4%EC%86%94_Section2.ipynb)
 
 구매데이터를 가지고, 고객의 구매패턴을 분석하고 3개월 뒤 매출을 예측합니다.
 1) Growth Hacking 용어로 보는 고객 구매패턴 분석
